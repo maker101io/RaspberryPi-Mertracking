@@ -1,6 +1,6 @@
-# RaspberryPi-Mertracking
-Raspberry Pi + OpenCV + Tracking + Trigger Project </br>
-Full tutorial for motion tracking: https://bit.ly/MertArduino
+# Detect Motion and Destroy Target!
+In this video I show you how to build a DIY motion tracking project with a Raspberry Pi 3. The project is autonomous so it moves and fires the gun when it detects motion. I used laser module for this project, but you can easily change modify this build to use a Nerf instead.This project allows you to detect and track a person with OpenCV and then trigger a device (such as a laser or gun).</br>
+Full tutorial for motion tracking: https://youtu.be/iwlfiDtddlg
 
 # Install Guide
 1) Make sure pip is installed </br>
